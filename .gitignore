@@ -1,0 +1,13 @@
+# Node.js
+node_modules
+
+# Django
+__pycache__
+db.sqlite3
+
+# Logs
+*.log
+*.env
+
+# OS files
+.DS_Store
